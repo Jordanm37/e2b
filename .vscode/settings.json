@@ -70,6 +70,8 @@
   // Disable Pylint and use just Pylance
   "python.linting.enabled": false,
   "python.analysis.typeCheckingMode": "basic",
+  "editor.tabCompletion": "on",
+  "diffEditor.codeLens": true,
   // "python.analysis.pylanceLspClientEnabled": true,
   // "python.analysis.inlayHints.functionReturnTypes": true,
   // "python.analysis.inlayHints.pytestParameters": true,
